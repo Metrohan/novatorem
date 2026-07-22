@@ -1,3 +1,7 @@
+> **Fork Notice**
+>
+> This repository is a fork of [novatorem/novatorem](https://github.com/novatorem/novatorem). See the upstream repository and its Unlicense terms for original authorship. No local modifications have been made.
+
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
